@@ -1,0 +1,2 @@
+0,YONETICI,adminz,surname,1234,telnumber,123,E,100000,branch,1
+1,PERSONEL,personel,surname,1234,telnumber,123,K,100000,branch,1
